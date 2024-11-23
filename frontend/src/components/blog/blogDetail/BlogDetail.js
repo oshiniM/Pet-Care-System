@@ -45,7 +45,7 @@ const BlogDetail = () => {
                   alt={blog.image.fileName}
                 />
               ) : (
-                <p>No image set for this blog aaaa </p>
+                <p>No image set for this blog </p>
               )}
             </Card>
             <hr />
