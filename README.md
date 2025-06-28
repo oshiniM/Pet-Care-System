@@ -8,7 +8,7 @@ A comprehensive web application developed for a real client to manage pet care s
 - 🐶 Pet Adoption
 - 🩺 Animal Health Care
 - 📅 Pet Visit Scheduling
-- 🎉 Pet Events
+- 🎉 Pet Events Management
 - 🛒 Shop and Cart Management
 - 📄 Report Generation
 - 🔍 Filtered Search
